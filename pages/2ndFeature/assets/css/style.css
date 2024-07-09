@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header.sun-design4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 2rem;
+    background-color: rgb(74, 195, 195);
+    gap: 1rem;
+    & img{
+        width: 5rem;
+    }
+    & > nav.button-classes {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        & > a {
+            border: 1px solid black;
+            border-radius: 30px;
+            padding: 0.5vw 1vw;
+            text-align: center;
+            text-decoration: none;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+            color: black
+        }
+        & > i {
+            padding-left: 34rem;
+        }
+
+    }
+}
+section.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+    background-color: rgb(74, 195, 195);
+    & h1{
+        font-size: 3rem;
+        font-weight: 700;
+        color: white;
+    }
+}
+section.firstfeature{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    height: 100dvh;
+    background:url(../img/new.png);
+    background-size: cover;
+    background-position: center;
+    & h1{
+        font-size: 3rem;
+        font-weight: 700;
+        margin-top: 65dvh;
+        color: white;
+        text-shadow: 2px 2px 4px black;
+        margin-left: 2rem;
+    }
+    & p{
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin-left: 2rem;
+        color: white;
+        text-shadow: 2px 2px 4px black;
+    }
+}
+section.secondfeature{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+    height: 100dvh;
+    background:url(../img/blocks.jpg);
+    background-size: cover;
+    background-position: center;
+    & h1{
+        font-size: 3rem;
+        font-weight: 700;
+        color: white;
+        text-shadow: 2px 2px 4px black;
+        margin-right: 2rem;
+    }
+    & p{
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin-right: 2rem;
+        color: white;
+        max-width: 65dvw;
+        text-shadow: 2px 2px 4px black;
+    }
+}
