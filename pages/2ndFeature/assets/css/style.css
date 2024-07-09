@@ -98,3 +98,28 @@ section.secondfeature{
         text-shadow: 2px 2px 4px black;
     }
 }
+section.Thirdfeature{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    height: 100dvh;
+    background:url(../img/minecraft\ lan.webp);
+    background-size: cover;
+    background-position: center;
+    & h1{
+        font-size: 3rem;
+        font-weight: 700;
+        color: white;
+        text-shadow: 2px 2px 4px black;
+        margin-right: 2rem;
+    }
+    & p{
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin-right: 2rem;
+        color: white;
+        max-width: 65dvw;
+        text-shadow: 2px 2px 4px black;
+    }
+}
