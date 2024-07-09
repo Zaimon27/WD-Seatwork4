@@ -12,13 +12,13 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-The goal of this website is to provide an in-depth overview of heroes and cards, highlighting their unique attributes and special qualities. We aim to enhance your understanding and appreciation of each hero and card through detailed analysis and insights.</div>
+This website is to show the features of Riot games and minecraft.</div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  --> Zaimon27
 <!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-Hands-on-2
-![](https://visit-counter.vercel.app/counter.png?page=https://github.com/Zaimon27/WD-Hands-on-2)
+![](https://visit-counter.vercel.app/counter.png?page=https://github.com/Zaimon27/WD-Seatwork4)
 
 ---
 
@@ -57,7 +57,7 @@ The goal of this website is to provide an in-depth overview of heroes and cards,
 <!-- The following are just sample -->
 Description of the project in details.
 
-The goal of this website is to provide a thorough overview of heroes and cards, emphasizing their special qualities.
+This webiste is featuring different design for features in a website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -107,6 +107,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link | 
 |-|-|-|
-| Celtics Logo | use as a background of the hero1 | https://alphacoders.com/boston-celtics-wallpapers |
-| Dallas Mavericks | use as a background of the hero2 | https://wallpapers.com/dallas-mavericks |
+| Riot Games | use as a reference for feature 1  |https://www.riotgames.com/en |
+| Minecraft | use as a reference for feature 2 |https://www.minecraft.net/en-us|
 
